@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/faberNovel/fix-redmine-issues-action/issues"
   },
-  "homepage": "https://github.com/faberNovel/fix-redmine-issues-action#readme"
+  "homepage": "https://github.com/faberNovel/fix-redmine-issues-action#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.4",
+    "@actions/github": "^4.0.0",
+    "axios": "^0.19.2"
+  }
 }
