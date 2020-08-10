@@ -1,0 +1,20 @@
+{
+  "name": "fix-redmine-issues-action",
+  "version": "1.0.0",
+  "description": "An action to fix the redmine issue based on commit message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faberNovel/fix-redmine-issues-action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faberNovel/fix-redmine-issues-action/issues"
+  },
+  "homepage": "https://github.com/faberNovel/fix-redmine-issues-action#readme"
+}

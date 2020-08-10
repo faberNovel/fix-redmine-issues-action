@@ -1,0 +1,8 @@
+name: 'Fix redmine issue'
+description: 'Close redmine issues based on commit message'
+inputs:
+  api_key:
+    required: true
+runs:
+  using: 'node12'
+  main: 'index.js'
