@@ -3,6 +3,8 @@ description: 'Close redmine issues based on commit message'
 inputs:
   api_key:
     required: true
+  redmine_url:
+    required: true
 runs:
   using: 'node12'
   main: 'index.js'
